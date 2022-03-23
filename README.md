@@ -1,6 +1,6 @@
 # Hello!
 
-While I was completing my Ph.D. in evolutionary biology from the University of Houston, I fell in love with coding and data analytics. I am currently looking for full-time Data Analytics or Data Science opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
+As I completing my Ph.D. in evolutionary biology from the University of Houston, I fell in love with coding and data analytics. I am currently looking for full-time Data Analytics or Data Science opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
 # PROJECTS & PUBLICATIONS
 
@@ -15,6 +15,8 @@ While I was completing my Ph.D. in evolutionary biology from the University of H
 	- [Code Repository](https://github.com/kjspring/GPMV-detect-and-quantify)
 
 - **2014** [John Hopkins Data Science Specialization Certification](https://coursera.org/share/d29cda461097608d833aeac8f793620e)
+	- [NLP Capstone Project](https://stochastic.shinyapps.io/PredictionApp/?_ga=2.74305426.1028503081.1648007214-1561095217.1648007214)
+	- [R Programming Project](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 
 - **2014** [Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c). *ACS Synthetic Biology*
 
