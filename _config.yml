@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Kevin Spring's portfolio
-descriptoin: Descriptions of my projects!
+descriptoin: Data Analytics | Biology | Agriculture
 plugins:
 - jekyll-remote-theme
 logo: /assets/img/kevin
+show_downloads: false
