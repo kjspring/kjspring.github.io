@@ -14,6 +14,6 @@ While I was completing my Ph.D. in evolutionary biology from the University of H
 
 - **2014** [Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c). ACS Synthetic Biology
 
-- **2013** [Chromosome Copy Number Variation and Control in the Ciliate Chilodonella uncinata(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056413). PLOS One. [Code](https://github.com/kjspring/Amitosis-Simulation)
+- **2013** [Chromosome Copy Number Variation and Control in the Ciliate Chilodonella uncinata](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056413). PLOS One. [Code](https://github.com/kjspring/Amitosis-Simulation)
 
 - **2013** [Chilodonella uncinata is Not Pathogenic to Culex pipiens Mosquitoes](http://onlinelibrary.wiley.com/doi/10.1111/jeu.12028/abstract;jsessionid=6094B956BDEFACFB98A3B24359285DF6.f03t03). Journal of Eukaryotic Microbiology
