@@ -17,8 +17,8 @@ As I completed a Ph.D. in evolutionary biology from the University of Houston, I
 	- [Code Repository](https://github.com/kjspring/GPMV-detect-and-quantify)
 
 - **2014** [John Hopkins Data Science Specialization Certification](/assets/img/'Coursera_Certificate_4ZJ8z4nkEe936825.pdf')
-	- <a href="https://stochastic.shinyapps.io/PredictionApp" target="_blank>NLP Capstone Project/>
-	- [R Programming Project](https://stochastic.shinyapps.io/dataDevProj)
+	- <a href="https://stochastic.shinyapps.io/PredictionApp" target="_blank>NLP Capstone Project</a>
+	- <a href="https://stochastic.shinyapps.io/dataDevProj target="_blank">R Programming Project</a>
 
 - **2014** [Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c)
 	- *ACS Synthetic Biology*
