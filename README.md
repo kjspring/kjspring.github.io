@@ -18,7 +18,7 @@ As I completed a Ph.D. in evolutionary biology from the University of Houston, I
 
 - **2014** [John Hopkins Data Science Specialization Certification](/assets/img/'Coursera_Certificate_4ZJ8z4nkEe936825.pdf')
 	- [NLP Capstone Project](https://stochastic.shinyapps.io/PredictionApp)
-	-[R Programming Project](https://stochastic.shinyapps.io/dataDevProj){:target="_blank"}
+	- [R Programming Project](https://stochastic.shinyapps.io/dataDevProj){:target="_blank"}
 
 - **2014** [Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c)
 	- *ACS Synthetic Biology*
