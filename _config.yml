@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Kevin Spring
-descriptoin: Data Analytics | Biology | Agriculture
+description: Data Analytics | Biology | Agriculture
 plugins:
 - jekyll-remote-theme
 logo: /assets/img/logo.jpg
