@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Kevin Spring's portfolio
 descriptoin: Descriptions of my projects!
 plugins:
