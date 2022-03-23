@@ -3,7 +3,12 @@
 @import "{{ site.theme }}";
 header {
   img {
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
+  }
+  h1 {
+    text-align: center;
   }
   p {
     text-align: center;
