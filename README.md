@@ -5,20 +5,24 @@ While I was completing my Ph.D. in evolutionary biology from the University of H
 # EXPERIENCE
 
 ## Assistant Professor of Biology and Microbiology
-Brazosport College Department of Math and Life Science
-2015 - Present
+- **Brazosport College Department of Math and Life Science**
+-2015 - Present
 
 ## Postdoctoral Research Fellow
-University of Houston Health Science Center
-2013 - 2014
+- **University of Houston Health Science Center**
+- 2013 - 2014
 
 # EDUCATION
 
 ## Ph.D. in Biology
-Department of Biology and Biochemistry, University of Houston, 2012
+- University of Houston
+- Department of Biology and Biochemistry,
+- 2006 - 2012
 
 ## B.S. in Biology, Chemistry minor
-Department of Natural Sciences, University of Houston - Downtown, 2006
+- University of Houston - Downtown
+- Department of Natural Sciences, University of Houston
+- 2001 - 2006
 
 # PUBLICATIONS
 
