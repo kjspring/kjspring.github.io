@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 header {
-  img {
+  .logo-rounded {
     width: 200px;
     height: 200px;
     border-radius: 50%;
