@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Kevin Spring's portfolio
 descriptoin: Descriptions of my projects!
+plugins:
+- jekyll-remote-theme
