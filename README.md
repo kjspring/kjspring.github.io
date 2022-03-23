@@ -9,7 +9,7 @@ While I was completing my Ph.D. in evolutionary biology from the University of H
 - Lorent JH, Diaz-Rohrer BB, Spring, KJ, Levental I. “[Elucidation of a Raft-Partitioning
 Motif in Transmembrane Proteins.](http://dx.doi.org/10.1016/j.bpj.2014.11.3051)" (2017) Biophysical Journal
 
-- Takahashi M, Chappel J, Hayes CA, Sun ZZ, Singhal V, Spring KJ, Al-Khabouri S, Fall CP, Noireaux V, Murray R, Lucks JB. “[Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056413)” (2014) ACS Synthetic Biology
+- Takahashi M, Chappel J, Hayes CA, Sun ZZ, Singhal V, Spring KJ, Al-Khabouri S, Fall CP, Noireaux V, Murray R, Lucks JB. “[Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c)” (2014) ACS Synthetic Biology
 
 - Spring KJ, Pham S, Zufall R. “[Chromosome Copy Number Variation and Control in the Ciliate Chilodonella uncinata](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056413)” (2013) PLOS One
 
