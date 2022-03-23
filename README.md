@@ -2,28 +2,6 @@
 
 While I was completing my Ph.D. in evolutionary biology from the University of Houston, I fell in love with coding and data analytics. I am currently looking for full-time Data Analytics or Data Science opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
-# EXPERIENCE
-
-## Assistant Professor of Biology and Microbiology
-- **Brazosport College Department of Math and Life Science**
--2015 - Present
-
-## Postdoctoral Research Fellow
-- **University of Houston Health Science Center**
-- 2013 - 2014
-
-# EDUCATION
-
-## Ph.D. in Biology
-- University of Houston
-- Department of Biology and Biochemistry,
-- 2006 - 2012
-
-## B.S. in Biology, Chemistry minor
-- University of Houston - Downtown
-- Department of Natural Sciences, University of Houston
-- 2001 - 2006
-
 # PUBLICATIONS
 
 - Lorent JH, Diaz-Rohrer BB, Lin X, Spring KJ, Gorfe AA, Levental KR, Levental I. (2017) “[Structural determinants and functional consequences of protein affinity for membrane rafts.](https://www.nature.com/articles/s41467-017-01328-3)” Nature Communications
