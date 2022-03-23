@@ -14,7 +14,7 @@ As I completing my Ph.D. in evolutionary biology from the University of Houston,
 - **2017** [Elucidation of a Raft-Partitioning Motif in Transmembrane Proteins](http://dx.doi.org/10.1016/j.bpj.2014.11.3051). *Biophysical Journal*. 
 	- [Code Repository](https://github.com/kjspring/GPMV-detect-and-quantify)
 
-- **2014** [John Hopkins Data Science Specialization Certification](https://coursera.org/share/d29cda461097608d833aeac8f793620e)
+- **2014** [John Hopkins Data Science Specialization Certification](/assets/img/'Coursera_Certificate_4ZJ8z4nkEe936825.pdf')
 	- [NLP Capstone Project](https://stochastic.shinyapps.io/PredictionApp/?_ga=2.74305426.1028503081.1648007214-1561095217.1648007214)
 	- [R Programming Project](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 
