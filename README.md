@@ -5,8 +5,8 @@ As I completed a Ph.D. in evolutionary biology from the University of Houston, I
 # PROJECTS & PUBLICATIONS
 
 - **2022** Google Data Analytics [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
+	- [Capstone Project Presentation](https://rpubs.com/kevinjspring/cyclistic)
 	- [Capstone Project Repository](https://github.com/kjspring/Google-Analytics-Capstone-Cyclistic-Case-Study){:target="_blank"}
-	- [Capstone Project Presentation]()
 
 - **2017** [Structural determinants and functional consequences of protein affinity for membrane rafts.](https://www.nature.com/articles/s41467-017-01328-3)
 	- *Nature Communications*. 
