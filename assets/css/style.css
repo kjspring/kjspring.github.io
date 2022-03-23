@@ -2,8 +2,11 @@
 ---
 @import "{{ site.theme }}";
 header {
-  .logo-rounded {
-    border-radius: 50%;
+  h1 {
+     text-align: center;
+  }
+  img {
+     border-radius: 50%;
   }
   h1 {
     text-align: center;
