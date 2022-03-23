@@ -4,7 +4,7 @@ While I was completing my Ph.D. in evolutionary biology from the University of H
 
 # PROJECTS & PUBLICATIONS
 
-- **2022** Google Data Analytics Certification. 
+- **2022** Google Data Analytics [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 	- [Capstone Project Link](https://github.com/kjspring/Google-Analytics-Capstone-Cyclistic-Case-Study)
 	- Presentation:
 
