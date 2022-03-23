@@ -4,4 +4,4 @@ descriptoin: Data Analytics | Biology | Agriculture
 plugins:
 - jekyll-remote-theme
 logo: /assets/img/logo.jpg
-show_downloads: false
+show_downloads: true
