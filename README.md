@@ -2,7 +2,7 @@
 
 As I completed a Ph.D. in evolutionary biology from the University of Houston, I fell in love with data analytics and coding. After several years working as an assistant professor in microbiology and raising two children I decided to follow that passion in helping others find meaning in data. I am currently looking for full-time Data Analytics or Data Science opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
-# PROJECTS & PUBLICATIONS
+# EXPERIENCE
 
 - **2022** Google Data Analytics [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 	- [Capstone Project Presentation](https://rpubs.com/kevinjspring/cyclistic)
