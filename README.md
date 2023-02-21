@@ -5,7 +5,7 @@ As I completed a doctorate in evolutionary biology, I fell in love with coding a
 # EXPERIENCE
 
 - [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing) | **2022**
-	- [Deployment](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/)  [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf)  [Code](https://github.com/kjspring/Pneumonia-detection-using-CNN)
+	- |[Deployment](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf) | [Code](https://github.com/kjspring/Pneumonia-detection-using-CNN) |
 
 - [Vaccination Hesitancy Prediction Using Machine Learning](https://docs.google.com/presentation/d/1t4unzUVCsqnJYtGx6izXjvm-7LawQboYmMtSxp2nzc0/edit?usp=sharing) | **2022** 
 	- [Notebook](https://github.com/kjspring/dsc-phase-3-project-v2-3/blob/main/Notebook.ipynb)  [Code](https://github.com/kjspring/dsc-phase-3-project-v2-3)
