@@ -12,7 +12,6 @@ As I completed a doctorate in evolutionary biology, I fell in love with coding a
 
 - [Analytics of Difference in Bike-share Users](https://rpubs.com/kevinjspring/cyclistic) | **2022**
 	- [Code](https://github.com/kjspring/Google-Analytics-Capstone-Cyclistic-Case-Study) | [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
-	- 
 
 - [Structural determinants and functional consequences of protein affinity for membrane rafts.](https://www.nature.com/articles/s41467-017-01328-3) | **2017**
 	- [Code](https://github.com/kjspring/GPMV-detect-and-quantify)
