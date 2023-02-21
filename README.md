@@ -4,6 +4,9 @@ As I completed a Ph.D. in evolutionary biology from the University of Houston, I
 
 # EXPERIENCE
 
+- **2022-2023** [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing)
+- 		- *[App](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/)* | *[GitHub]((https://github.com/kjspring/Pneumonia-detection-using-CNN))* | *[Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf)*
+
 - **2022** Google Data Analytics [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 	- [Capstone Project Presentation](https://rpubs.com/kevinjspring/cyclistic)
 	- [Capstone Project Repository](https://github.com/kjspring/Google-Analytics-Capstone-Cyclistic-Case-Study){:target="_blank"}
