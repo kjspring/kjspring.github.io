@@ -4,7 +4,7 @@ As I completed a doctorate in evolutionary biology, I fell in love with coding a
 
 # EXPERIENCE
 
-- **2022-2023** [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing)
+- **2022** [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing)
 	- [Deployment](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [Code Repository](https://github.com/kjspring/Pneumonia-detection-using-CNN) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf)
 
 - **2022** Bike-share User Differene Analytics
