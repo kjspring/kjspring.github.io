@@ -1,11 +1,13 @@
 # Hello!
 
-As I completed a Ph.D. in evolutionary biology from the University of Houston, I fell in love with data analytics and coding. After several years working as an assistant professor in microbiology and raising two children I decided to follow that passion in helping others find meaning in data. I am currently looking for full-time Data Analytics or Data Science opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
+As I completed a Ph.D. in evolutionary biology from the University of Houston, I fell in love with data analytics and coding. After several years working as an assistant professor in microbiology and raising two children I decided to follow that passion in helping others find meaning in data. I am currently looking for full-time data science and analytics opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
 # EXPERIENCE
 
 - **2022-2023** [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing)
-- 		- [App](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [GitHub]((https://github.com/kjspring/Pneumonia-detection-using-CNN)) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf)
+- 		- [Deployment](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/)
+- 		- [GitHub]((https://github.com/kjspring/Pneumonia-detection-using-CNN))
+- 		- [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf)
 
 - **2022** Google Data Analytics [Certificate](https://coursera.org/share/7fa4724233f9167c6ce0d62dea6bebeb)
 	- [Capstone Project Presentation](https://rpubs.com/kevinjspring/cyclistic)
