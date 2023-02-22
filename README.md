@@ -1,6 +1,6 @@
 # Hello!
 
-As I completed a doctorate in evolutionary biology, I fell in love with coding and data science. After several years working as an assistant professor in microbiology and raising two children I decided to follow that passion in helping others find meaning in data. I am currently looking for full-time data science and analytics opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
+As I completed a doctorate in evolutionary biology, I fell in love with coding and data science. After several years working as an assistant professor in microbiology and raising two children I decided to follow my passion in helping others find meaning in data. I am currently looking for full-time data science and analytics opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
 # EXPERIENCE
 
