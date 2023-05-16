@@ -1,8 +1,15 @@
 # Hello!
 
-As I completed a doctorate in evolutionary biology, I fell in love with coding and data science. After several years working as an assistant professor in microbiology and raising two children I decided to follow my passion in helping others find meaning in data. I am currently looking for full-time data science and analytics opportunities. If you know of any positions available or would just like to say hi, feel free to email me at, [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
+I am a data scientist and researcher. I love solving puzzles. A puzzle coming to gether is one of the most satisfying feelings to have. Being the first to glips this knowledge is breathtaking.
+
+![Puzzle](https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif)
+
+I am always on the hunt for new puzzles to solve.
+
+ [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
 # EXPERIENCE
+
 
 ## [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing) | **2022**
 | [App](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf) | [Code](https://github.com/kjspring/Pneumonia-detection-using-CNN) |
