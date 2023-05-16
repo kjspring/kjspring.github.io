@@ -8,7 +8,8 @@ I am a data scientist and researcher. I love solving puzzles. Seeing a puzzle co
 
 # EXPERIENCE
 
-## [Forecasting Acute Stress Using Wearable Devices](https://docs.google.com/presentation/d/1AJh2jsqXwWhBnvAP1Trfw4YyKzZmy_-XZaMD4NnvRFM/edit?usp=sharing) | **2023** | [Colab Notebook](https://github.com/kjspring/stress-detection-wearable-devices/blob/main/notebooks/notebook.ipynb) | [Code](https://github.com/kjspring/stress-detection-wearable-devices) | 
+## [Forecasting Acute Stress Using Wearable Devices](https://docs.google.com/presentation/d/1AJh2jsqXwWhBnvAP1Trfw4YyKzZmy_-XZaMD4NnvRFM/edit?usp=sharing) | **2023**
+ | [Colab Notebook](https://github.com/kjspring/stress-detection-wearable-devices/blob/main/notebooks/notebook.ipynb) | [Code](https://github.com/kjspring/stress-detection-wearable-devices) | 
 
 ## [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing) | **2022**
 | [App](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf) | [Code](https://github.com/kjspring/Pneumonia-detection-using-CNN) |
