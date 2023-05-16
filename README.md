@@ -1,15 +1,15 @@
 # Hello!
 
-I am a data scientist and researcher. I love solving puzzles. A puzzle coming to gether is one of the most satisfying feelings to have. Being the first to glips this knowledge is breathtaking.
+I am a data scientist and researcher. I love solving puzzles. Seeing a puzzle come together is amazing. Being the first to glips this knowledge is breathtaking. Data science is all about putting data from many sources to gain a higher perspective. The answer is right under our nose, it was just in the wrong order to understand.
+
+*I am always on the hunt for new puzzles to solve*.
 
 ![Puzzle](https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif)
 
-I am always on the hunt for new puzzles to solve.
-
- [kevinjspring@gmail.com](mailto:kevinjspring@gmail.com).
 
 # EXPERIENCE
 
+## [Forecasting Acute Stress Using Wearable Devices](
 
 ## [Detection of Pneumonia using Neural Networks](https://docs.google.com/presentation/d/1msXThCS1Y01pPy3iPd4PBryomYItgv8FA6D4OMnhfM0/edit?usp=sharing) | **2022**
 | [App](https://kjspring-x-ray-pneumonia-prediction-app-app-bmt24r.streamlit.app/) | [Notebook](https://github.com/kjspring/Pneumonia-detection-using-CNN/blob/main/deliverables/notebook.pdf) | [Code](https://github.com/kjspring/Pneumonia-detection-using-CNN) |
