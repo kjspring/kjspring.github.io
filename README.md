@@ -3,7 +3,8 @@
 I am a data scientist and researcher. I love solving puzzles. Seeing a puzzle come together is amazing. Data science is all about putting data from many sources to gain a higher perspective. The answer is right under our nose, it was just in the wrong order to understand.
 
 *I am always on the hunt for new puzzles to solve*.
-<img src="https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif" width="120" height="60">
+
+<img src="https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif" width="240" height="120">
 
 # EXPERIENCE
 
