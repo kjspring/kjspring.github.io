@@ -1,6 +1,6 @@
 # Hello!
 
-I am a data scientist and researcher. I love solving puzzles. Seeing a puzzle come together is amazing. Data science is all about putting data from many sources to gain a higher perspective. The answer is right under our nose, it was just in the wrong order to understand.
+I am a data scientist and researcher. I love solving puzzles. Data science is all about putting data from many sources to gain a higher perspective. The answer is right under our nose, it needs to be put in the right combination to understand.
 
 *I am always on the hunt for new puzzles to solve*.
 
@@ -21,7 +21,6 @@ I am a data scientist and researcher. I love solving puzzles. Seeing a puzzle co
 | [Code](https://github.com/kjspring/GPMV-detect-and-quantify) |
 
 ## [Rapidly Characterizing the Fast Dynamics of RNA Genetic Circuitry with Cell-Free Transcription–Translation (TX-TL) Systems](http://pubs.acs.org/doi/abs/10.1021/sb400206c) | **2014**
-- Developed from [Cold Springs Harbor Labs Meeting on Synthetic Biology](https://meetings.cshl.edu/courses.aspx?course=c-synbio&year=20), [Class of 2013](https://meetings.cshl.edu/alumni.aspx?course=C-SYNBIO&year=18)
 
 ## [Chromosome Copy Number Variation and Control in the Ciliate Chilodonella uncinata](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056413) | **2013**
  |  [Code](https://github.com/kjspring/Amitosis-Simulation) |
