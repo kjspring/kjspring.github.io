@@ -1,8 +1,10 @@
 # Hello!
 
-I am a data scientist and researcher. I love solving puzzles. Data science is all about putting data from many sources to gain a higher perspective. The answer is right under our nose, it needs to be put in the right combination to understand.
+Fascinated by the mysteries of evolution, I began my career in academia as a Professor of Microbiology. Through my research, I became adept at managing big datasets, coding, and applying statistical tools, which naturally led me to the field of data science.
 
-*I am always on the hunt for new puzzles to solve*.
+In my transition to becoming a data scientist, I found that my love for solving complex puzzles was vital. I take great joy in deciphering the stories hidden within data, transforming them into meaningful insights. My experience includes training in machine learning models, coding with Python and R, and completing full-stack data science projects.
+
+I'm always eager to tackle new challenges and am particularly interested in opportunities at the intersection of biology and data science.
 
 <img src="https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif" width="200" height="120">
 
