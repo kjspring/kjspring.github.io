@@ -6,8 +6,6 @@ In my transition to becoming a data scientist, I found that my love for solving 
 
 I'm always eager to tackle new challenges and am particularly interested in opportunities at the intersection of biology and data science.
 
-<img src="https://media.giphy.com/media/vWU2MbMzQ1eTu/giphy.gif" width="200" height="120">
-
 # EXPERIENCE
 
 ## [Forecasting Acute Stress Using Wearable Devices](https://docs.google.com/presentation/d/1AJh2jsqXwWhBnvAP1Trfw4YyKzZmy_-XZaMD4NnvRFM/edit?usp=sharing) | **2023**
